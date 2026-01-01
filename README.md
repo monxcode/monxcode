@@ -1,8 +1,6 @@
 <h1 align="center">Mohan Singh Parmar</h1>
-<h3 align="center">Web Developer | AI for Cybersecurity</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=0ACFFE&center=true&vCenter=true&width=600&lines=Web+Development+Experience+1.5%2B+Years;Cybersecurity+Learner;AI+Driven+Security+Exploration;Building+Practical+and+Scalable+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2400&pause=600&color=00FFCC&center=true&vCenter=true&width=760&lines=Initializing+profile...;Web+Developer+%7C+1.5%2B+Years+Experience;Transitioning+into+AI+for+Cybersecurity;Focused+on+Threat+Detection+and+Secure+Systems;Status%3A+Active+and+Building" />
 </p>
 
 <hr/>
