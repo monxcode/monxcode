@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:000000,50:050b18,100:000000&text=MOHAN%20SINGH%20PARMAR&fontSize=40&fontColor=00ffcc&fontAlignY=50&animation=fadeIn&desc=WEB%20DEVELOPER%20%7C%20AI%20FOR%20CYBERSECURITY&descAlignY=70&descSize=14&descColor=7fffd4" />
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2400&pause=600&color=00FFCC&center=true&vCenter=true&width=760&lines=Initializing+profile...;Web+Developer+%7C+1.5%2B+Years+Experience;Transitioning+into+AI+for+Cybersecurity;Focused+on+Threat+Detection+and+Secure+Systems;Status%3A+Active+and+Building" />
 </p>
 
