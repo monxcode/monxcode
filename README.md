@@ -18,7 +18,7 @@ Hi, I’m Mohan Singh Parmar — a developer passionate about Web Development, C
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,c++,html,css,js,python,linux,git,github,mysql,figma&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,python,linux,git,github,mysql,figma&theme=dark&perline=5" />
 </p>
 
 # GitHub Stats:
