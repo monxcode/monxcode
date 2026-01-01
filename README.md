@@ -14,7 +14,6 @@ Hi, I’m Mohan Singh Parmar — a developer passionate about Web Development, C
 
 # Tech Stack:
 
-  <b>CORE STACK</b>
 </p>
 
 
