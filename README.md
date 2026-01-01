@@ -1,3 +1,13 @@
+<h1 align="center">Mohan Singh Parmar</h1>
+<h3 align="center">Web Developer | AI for Cybersecurity</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=0ACFFE&center=true&vCenter=true&width=600&lines=Web+Development+Experience+1.5%2B+Years;Cybersecurity+Learner;AI+Driven+Security+Exploration;Building+Practical+and+Scalable+Solutions" />
+</p>
+
+<hr/>
+
+
 # About Me:
 Hi, I’m Mohan Singh Parmar — a developer passionate about Web Development, Cyber Security, and AI-driven solutions.<br><br>With **1.5 years of experience in Web Development**, I’ve worked with multiple clients and built clean, efficient, and user-focused applications.<br><br> Currently, I’m transitioning into **AI for CYBERSECURITY**, exploring how machine learning can strengthen security systems and threat detection.<br><br>I believe in continuous learning, solving real-world problems, and building projects that reflect creativity, logic, and practical thinking.<br><br>If you're an experienced professional in Cybersecurity, I truly welcome any advice, guidance, or mentorship. I’m always open to learning from experts and improving my skills.
 
