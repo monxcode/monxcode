@@ -22,6 +22,10 @@ Hi, I’m Mohan Singh Parmar — a developer passionate about Web Development, C
   <img src="https://skillicons.dev/icons?i=c,html,css,js,python,linux,git,github,mysql,figma&theme=dark&perline=5" />
 </p>
 
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=monxcode&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=monxcode&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=monxcode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
