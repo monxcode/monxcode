@@ -13,7 +13,7 @@ Hi, I’m Mohan Singh Parmar — a developer passionate about Web Development, C
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ur.mohan_?igsh=MXNodG9vZjExcGE3ag==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-singh-parmar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parmarmohansingh26@gmail.com) 
 
 # Tech Stack:
-<p align="center">
+
   <b>CORE STACK</b>
 </p>
 
