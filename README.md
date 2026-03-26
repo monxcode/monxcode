@@ -21,6 +21,6 @@ Hi, I’m Mohan Singh Parmar — a developer passionate about Web Development, C
 </p>
 
 
-![](/assets/let's-code.gif)
+![](/assets/coding.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
