@@ -21,7 +21,6 @@ If you are an experienced professional in **Cybersecurity**, I would truly appre
 
 ---
 
-# Tech Stack
 
 # Tech Stack
 
