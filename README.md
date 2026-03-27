@@ -9,8 +9,6 @@
 Hi, I’m Mohan Singh Parmar — a developer passionate about Web Development, Cyber Security, and AI-driven solutions.<br><br>With **1.5 years of experience in (Frontend) Web Development**, I’ve worked with multiple clients and built clean, efficient, and user-focused applications.<br><br> Currently, I’m transitioning into **AI for CYBERSECURITY**, exploring how machine learning can strengthen security systems and threat detection.<br><br>I believe in continuous learning, solving real-world problems, and building projects that reflect creativity, logic, and practical thinking.<br><br>If you're an experienced professional in Cybersecurity, I truly welcome any advice, guidance, or mentorship. I’m always open to learning from experts and improving my skills.
 
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ur.mohan_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-singh-parmar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parmarmohansingh26@gmail.com) 
 
 # Tech Stack:
 
