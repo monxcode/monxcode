@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="/assets/coding.gif" width="450">
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2400&pause=600&color=00FFCC&center=true&vCenter=true&width=760&lines=Initializing+profile...;Frontend+Developer+%7C+1.5%2B+Years+Experience;Transitioning+into+AI+for+Cybersecurity;Focused+on+Threat+Detection+and+Secure+Systems;Status%3A+Actively+Learning+and+Building" />
@@ -37,3 +35,6 @@ If you are an experienced professional in **Cybersecurity**, I would truly appre
 | Design | <img src="https://skillicons.dev/icons?i=figma&theme=dark" /> |
 
 
+<p align="center">
+  <img src="/assets/coding.gif" width="450">
+</p>
