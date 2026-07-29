@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/monxcode"><img src="https://img.shields.io/badge/GitHub-monxcode-00FFCC?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-00FFCC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-00FFCC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
   <img src="https://komarev.com/ghpvc/?username=monxcode&style=for-the-badge&color=00FFCC&labelColor=1a1a2e" />
