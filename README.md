@@ -8,7 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=monxcode&style=for-the-badge&color=00FFCC&labelColor=1a1a2e" />
 </p>
 
----
 
 <br>
 
@@ -48,15 +47,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-<br>
-
-<!-- Activity Graph -->
-<h2 align="center">Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monxcode&bg_color=0d1117&color=00FFCC&line=00FFCC&point=ffffff&area=true&hide_border=true" style="max-width:100%;height:auto;width:95%" />
 </p>
 
 <br>
